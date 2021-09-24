@@ -23,4 +23,5 @@ hash: 520988f028d5fe6d712d4c609e4a35571576fc96
 git commit
 ````
 потім через веб версію вставив посилання на зображення в readme.md
-[logo]: https://github.com/asiansouldja/matiiash_labs/blob/main/ex1/img.png "test picture"
+
+![alt text](https://github.com/asiansouldja/matiiash_labs/blob/main/ex1/img.png "test picture")
