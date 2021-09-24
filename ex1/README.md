@@ -8,4 +8,8 @@ git clone https://github.com/asiansouldja/matiiash_labs.git
 git log 
 hash: 520988f028d5fe6d712d4c609e4a35571576fc96
 ```
-4. branch here )(
+4. branch here )( 
+```shell
+   git checkout Для переключення
+   git branch для створення
+ ```
