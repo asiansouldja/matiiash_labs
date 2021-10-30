@@ -1,0 +1,5 @@
+Time is:  23:16:36 PM
+Date is:  10-30-2021
+Доброго вечора!
+No URL passed to function
+No date in response!
