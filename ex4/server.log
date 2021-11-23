@@ -1,0 +1,140 @@
+INFO 2021-11-23 15:29:00,313 root : Server is available. Time on server: 2021-11-23 13:29:00
+INFO 2021-11-23 15:29:00,313 root : Request page: : http://localhost:8000/health/
+INFO 2021-11-23 15:29:00,313 root : Answer of the server includes:
+INFO 2021-11-23 15:29:00,313 root : Key: date, Emount: 2021-11-23 13:29:00
+INFO 2021-11-23 15:29:00,313 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2021-11-23 15:29:00,313 root : Key: server_info, Emount: ['Linux', 'arsen', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2021-11-23 15:29:00,313 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2021-11-23 15:30:00,382 root : Server is available. Time on server: 2021-11-23 13:30:00
+INFO 2021-11-23 15:30:00,383 root : Request page: : http://localhost:8000/health/
+INFO 2021-11-23 15:30:00,383 root : Answer of the server includes:
+INFO 2021-11-23 15:30:00,383 root : Key: date, Emount: 2021-11-23 13:30:00
+INFO 2021-11-23 15:30:00,383 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2021-11-23 15:30:00,383 root : Key: server_info, Emount: ['Linux', 'arsen', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2021-11-23 15:30:00,383 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2021-11-23 15:31:00,470 root : Server is available. Time on server: 2021-11-23 13:31:00
+INFO 2021-11-23 15:31:00,470 root : Request page: : http://localhost:8000/health/
+INFO 2021-11-23 15:31:00,470 root : Answer of the server includes:
+INFO 2021-11-23 15:31:00,471 root : Key: date, Emount: 2021-11-23 13:31:00
+INFO 2021-11-23 15:31:00,471 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2021-11-23 15:31:00,471 root : Key: server_info, Emount: ['Linux', 'arsen', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2021-11-23 15:31:00,471 root : Key: client_info, Emount: python-requests/2.25.0
+ERROR 2021-11-23 15:32:00,537 root : There is no access to the
+ERROR 2021-11-23 15:33:00,599 root : There is no access to the
+ERROR 2021-11-23 15:34:00,666 root : There is no access to the
+ERROR 2021-11-23 15:35:00,717 root : There is no access to the
+ERROR 2021-11-23 15:36:00,780 root : There is no access to the
+ERROR 2021-11-23 15:37:00,847 root : There is no access to the
+ERROR 2021-11-23 15:38:00,872 root : There is no access to the
+ERROR 2021-11-23 15:39:00,940 root : There is no access to the
+ERROR 2021-11-23 15:40:01,007 root : There is no access to the
+ERROR 2021-11-23 15:41:01,068 root : There is no access to the
+ERROR 2021-11-23 15:42:01,131 root : There is no access to the
+ERROR 2021-11-23 15:43:01,196 root : There is no access to the
+ERROR 2021-11-23 15:44:01,261 root : There is no access to the
+ERROR 2021-11-23 17:07:23,468 root : There is no access to the
+ERROR 2021-11-23 17:08:23,532 root : There is no access to the
+ERROR 2021-11-23 17:09:23,597 root : There is no access to the
+ERROR 2021-11-23 17:10:23,660 root : There is no access to the
+ERROR 2021-11-23 17:11:23,723 root : There is no access to the
+ERROR 2021-11-23 17:12:23,787 root : There is no access to the
+ERROR 2021-11-23 17:13:23,850 root : There is no access to the
+ERROR 2021-11-23 17:14:23,915 root : There is no access to the
+INFO 2020-12-05 20:36:25,257 root : Server is available. Time on server: 2020-12-05 20:36:25
+INFO 2020-12-05 20:36:25,258 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:36:25,258 root : Answer of the server includes:
+INFO 2020-12-05 20:36:25,258 root : Key: date, Emount: 2020-12-05 20:36:25
+INFO 2020-12-05 20:36:25,258 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:36:25,258 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:36:25,258 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:37:25,324 root : Server is available. Time on server: 2020-12-05 20:37:25
+INFO 2020-12-05 20:37:25,324 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:37:25,324 root : Answer of the server includes:
+INFO 2020-12-05 20:37:25,324 root : Key: date, Emount: 2020-12-05 20:37:25
+INFO 2020-12-05 20:37:25,324 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:37:25,324 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:37:25,325 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:38:25,409 root : Server is available. Time on server: 2020-12-05 20:38:25
+INFO 2020-12-05 20:38:25,410 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:38:25,410 root : Answer of the server includes:
+INFO 2020-12-05 20:38:25,411 root : Key: date, Emount: 2020-12-05 20:38:25
+INFO 2020-12-05 20:38:25,411 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:38:25,412 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:38:25,412 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:39:25,502 root : Server is available. Time on server: 2020-12-05 20:39:25
+INFO 2020-12-05 20:39:25,502 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:39:25,503 root : Answer of the server includes:
+INFO 2020-12-05 20:39:25,503 root : Key: date, Emount: 2020-12-05 20:39:25
+INFO 2020-12-05 20:39:25,503 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:39:25,503 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:39:25,503 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:40:25,544 root : Server is available. Time on server: 2020-12-05 20:40:25
+INFO 2020-12-05 20:40:25,544 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:40:25,544 root : Answer of the server includes:
+INFO 2020-12-05 20:40:25,544 root : Key: date, Emount: 2020-12-05 20:40:25
+INFO 2020-12-05 20:40:25,544 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:40:25,544 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:40:25,544 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:41:25,588 root : Server is available. Time on server: 2020-12-05 20:41:25
+INFO 2020-12-05 20:41:25,588 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:41:25,588 root : Answer of the server includes:
+INFO 2020-12-05 20:41:25,589 root : Key: date, Emount: 2020-12-05 20:41:25
+INFO 2020-12-05 20:41:25,589 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:41:25,589 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:41:25,589 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:42:25,678 root : Server is available. Time on server: 2020-12-05 20:42:25
+INFO 2020-12-05 20:42:25,678 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:42:25,679 root : Answer of the server includes:
+INFO 2020-12-05 20:42:25,679 root : Key: date, Emount: 2020-12-05 20:42:25
+INFO 2020-12-05 20:42:25,680 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:42:25,680 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:42:25,680 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:43:25,700 root : Server is available. Time on server: 2020-12-05 20:43:25
+INFO 2020-12-05 20:43:25,700 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:43:25,700 root : Answer of the server includes:
+INFO 2020-12-05 20:43:25,700 root : Key: date, Emount: 2020-12-05 20:43:25
+INFO 2020-12-05 20:43:25,700 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:43:25,700 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:43:25,700 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:44:25,769 root : Server is available. Time on server: 2020-12-05 20:44:25
+INFO 2020-12-05 20:44:25,769 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:44:25,769 root : Answer of the server includes:
+INFO 2020-12-05 20:44:25,769 root : Key: date, Emount: 2020-12-05 20:44:25
+INFO 2020-12-05 20:44:25,770 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:44:25,770 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:44:25,770 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:45:25,869 root : Server is available. Time on server: 2020-12-05 20:45:25
+INFO 2020-12-05 20:45:25,870 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:45:25,870 root : Answer of the server includes:
+INFO 2020-12-05 20:45:25,871 root : Key: date, Emount: 2020-12-05 20:45:25
+INFO 2020-12-05 20:45:25,871 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:45:25,871 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:45:25,872 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:46:25,966 root : Server is available. Time on server: 2020-12-05 20:46:25
+INFO 2020-12-05 20:46:25,967 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:46:25,967 root : Answer of the server includes:
+INFO 2020-12-05 20:46:25,968 root : Key: date, Emount: 2020-12-05 20:46:25
+INFO 2020-12-05 20:46:25,968 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:46:25,968 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:46:25,968 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:47:26,070 root : Server is available. Time on server: 2020-12-05 20:47:26
+INFO 2020-12-05 20:47:26,070 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:47:26,070 root : Answer of the server includes:
+INFO 2020-12-05 20:47:26,071 root : Key: date, Emount: 2020-12-05 20:47:26
+INFO 2020-12-05 20:47:26,071 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:47:26,071 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:47:26,071 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:48:26,166 root : Server is available. Time on server: 2020-12-05 20:48:26
+INFO 2020-12-05 20:48:26,167 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:48:26,167 root : Answer of the server includes:
+INFO 2020-12-05 20:48:26,168 root : Key: date, Emount: 2020-12-05 20:48:26
+INFO 2020-12-05 20:48:26,168 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:48:26,169 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:48:26,169 root : Key: client_info, Emount: python-requests/2.25.0
+INFO 2020-12-05 20:49:26,247 root : Server is available. Time on server: 2020-12-05 20:49:26
+INFO 2020-12-05 20:49:26,248 root : Request page: : http://localhost:8000/health/
+INFO 2020-12-05 20:49:26,248 root : Answer of the server includes:
+INFO 2020-12-05 20:49:26,248 root : Key: date, Emount: 2020-12-05 20:49:26
+INFO 2020-12-05 20:49:26,248 root : Key: current_page, Emount: http://localhost:8000/health/
+INFO 2020-12-05 20:49:26,248 root : Key: server_info, Emount: ['Linux', '5f73b865fe30', '5.4.0-53-generic', '#59~18.04.1-Ubuntu SMP Wed Oct 21 12:14:56 UTC 2020', 'x86_64']
+INFO 2020-12-05 20:49:26,248 root : Key: client_info, Emount: python-requests/2.25.0
